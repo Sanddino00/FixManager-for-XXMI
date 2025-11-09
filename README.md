@@ -37,7 +37,7 @@ Features:
 Resources:
 
 These are fix tools from different creators for Genshin, Star Rail, Wuwa etc. You can get them all on Gamebanana and Github.
-The tools included are for updating the character hashes and/or fixing reflection issues etc.
+The tools included are for updating the character hashes and/or fixing reflection issues etc and to save your toggle choice
 
 .
 .
