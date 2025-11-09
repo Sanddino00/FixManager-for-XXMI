@@ -138,6 +138,10 @@ petrascyll
 
 hsr_fix33d - Another v3.3 HSR Fix     https://gamebanana.com/tools/19559
 
+caverabbit
+
+WWMI RabbitFX - Glow FX + Censor Remover   https://gamebanana.com/mods/527815
+
 Sora
 
 star rail update mods scripts    https://gamebanana.com/mods/631661
