@@ -3,6 +3,10 @@ I included the currently newest fixes but I will try to keep them updated as wel
 <img width="1821" height="693" alt="Screenshot 2025-11-09 010203" src="https://github.com/user-attachments/assets/f2c04518-dcb3-4de2-92d0-f2403bb04841" />
 
 
+-Your Mod Folder path needs to contain an an indicator for the game like xxmi does 
+so GIMI, SRMI, WWMI, ZZMI or HIMI > Mods > Your Mods 
+to prevent using fixes of other games on your mods and breaking them.
+
 
 
 Please check out the original creators of the fix tools and support them if possible. I included the links to the original download pages of tools used by my tool in the credits section.
