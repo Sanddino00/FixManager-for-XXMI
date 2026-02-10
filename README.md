@@ -171,3 +171,9 @@ zzz_fix20g_by_hc_python - ZZZ 2.0 Fix; Slot Fix-Texture and Lighting Fixes   htt
 
 Some of the tools were created by multiple of these people but I didn't put everyone everywhere because it would make the side to long.
 Please check out the original creator of the tools and support them if possible 
+.
+.
+.
+.
+.
+I may stop supporting this tool at some point so feel free to modify it in anyway you like.
