@@ -1,5 +1,5 @@
 This is a tool to manage and use the fix tool for Genshin, Star Rail, Wuwa, ZZZ and Hi3
-I included the currently newest fixes but I will try to keep them updated as well as the links for them.
+I included the currently newest fixes and I will try to keep the fixes updated as long as I play the game so if a fix for some game is missing pls comment or add it yourself.
 <img width="1821" height="693" alt="Screenshot 2025-11-09 010203" src="https://github.com/user-attachments/assets/f2c04518-dcb3-4de2-92d0-f2403bb04841" />
 
 
@@ -171,3 +171,9 @@ zzz_fix20g_by_hc_python - ZZZ 2.0 Fix; Slot Fix-Texture and Lighting Fixes   htt
 
 Some of the tools were created by multiple of these people but I didn't put everyone everywhere because it would make the side to long.
 Please check out the original creator of the tools and support them if possible 
+.
+.
+.
+.
+.
+I may stop supporting this tool at some point so feel free to modify it in anyway you like.
